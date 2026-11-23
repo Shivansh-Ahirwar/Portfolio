@@ -29,7 +29,7 @@ export const projects = [
     category: "App Development",
     tech: ["HTML", "CSS", "JavaScript", "Vercel", "Git", "GitHub"],
     github: "",
-    live: "https://agrigrow-website.vercel.app/",
+    live: "https://agrigrow-web.vercel.app/",
   },
   {
     title: "BIS-Sahayak AI",
